@@ -1,0 +1,20 @@
+.main_display {
+  width: 210px;
+  background-color: #6c757d;
+  border-radius: 5px;
+  padding: 7px;
+}
+.buttons_number {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+.buttons_group {
+  display: flex;
+  flex-direction: row;
+  margin-top: 5px;
+}
+.button {
+  width: 100%;
+}
